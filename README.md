@@ -131,7 +131,7 @@ Some resources possess an emoticon to help you understand which type of content 
 <!-- Apple Touch Icon (at least 200x200px) -->
 <link rel="apple-touch-icon" href="/custom-icon.png">
 
-<!-- To run web application in full-screen -->
+<!-- To run the web application in full-screen -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 
 <!-- Status Bar Style (see Supported Meta Tags below for available values) -->
@@ -422,7 +422,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 🛠 Use [ImageOptim](https://imageoptim.com/) to optimise your images for free.
 > * 🛠 Use [KeyCDN Image Processing](https://www.keycdn.com/support/image-processing) for image optimization in real time.
 > * 🛠 Use [Kraken.io](https://kraken.io/web-interface) awesome alternative for both png and jpg optimization. Up to 1mb per files on free plan.
-> * 🛠 [TinyPNG](https://tinypng.com/) losslessly optimises png, apng (animated png) and jpg images. Free and paid version available.
+> * 🛠 [TinyPNG](https://tinypng.com/) optimises png, apng (animated png) and jpg images with very small loss in quality. Free and paid version available.
 > * 🛠 [ZorroSVG](http://quasimondo.com/ZorroSVG/) jpg-like compression for transparent images using svg masking.
 > * 🛠 [SVGO](https://github.com/svg/svgo) a Nodejs-based tool for optimizing SVG vector graphics files.
 > * 🛠 [SVGOMG](https://jakearchibald.github.io/svgomg/) a web-based GUI version of SVGO for optimising your svgs online.
@@ -643,7 +643,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 * [ ] **Label:** ![High][high_img] A label is associated with each input form element. In case a label can't be displayed, use `aria-label` instead.
 
-> * 📖 [Using the aria-label attribute - MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
+> * 📖 [Using the aria-label attribute - MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label)
 
 ### Accessibility testing
 
